@@ -1,0 +1,5 @@
+.contentAggregator
+contentAggregator/__pycache__/*
+podcasts/__pycache__/*
+podcasts/migrations/__pycache__/*
+secrets.sh
